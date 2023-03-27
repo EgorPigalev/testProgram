@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:testProgram"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+         <!--вфышловлфыждвфывфывфвыфв-->
     </Application.Resources>
 </Application>
