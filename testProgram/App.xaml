@@ -4,6 +4,9 @@
              xmlns:local="clr-namespace:testProgram"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
+        <!--<Style>
+            <Setter></Setter>
+        </Style>-->
          
     </Application.Resources>
 </Application>
